@@ -1,0 +1,3 @@
+include ':DwiRiyantoLibrary'
+include ':app'
+rootProject.name = "ProjectDwiRiyantolibraryfix"
